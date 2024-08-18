@@ -35,7 +35,7 @@ const Works = () => (
           </WorkGridItem>
         </Section>
         <Section delay={0.1}>
-          <WorkGridItem id="handgesture" thumbnail={thumbHandGesture} title="Hand Gesture Recognition">
+          <WorkGridItem id="handgesture" thumbnail={thumbHandGesture} title="HyperShip">
           A machine learning Model that will Recognize Hand Gestures in real time using CNN and automated using Raspberry pi.
           </WorkGridItem>
         </Section>

@@ -25,23 +25,24 @@ const Work = () => (
       </P>
       <br></br>
       <P>
-      Created a Redux store to manage and enhance all the complex state management techniques
-      ensuring seamless feature addition and enhancements.
+      Created the API endpoints and a Redux store to manage all the complex state management techniques ensuring seamless feature addition and enhancements.
       </P>
       <List ml={4} my={4}>
       <ListItem>
           <Meta>Live Website</Meta>
-          <Link href="https://colab.research.google.com/drive/1ADxLFP-0gfAEh5ko93C3KlKpBNJEaTrV?usp=sharing">
+          <Link href="https://summarizer.shashw1t.in/">
           Article Summarizer<ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
-          <Meta>Platform</Meta>
-          <span>Google Colab</span>
+        <Meta>GitHub</Meta>
+          <Link href="https://github.com/Shashw1t/URL_Summarizer">
+          Shashw1t<ExternalLinkIcon mx="2px" />
+          </Link>
         </ListItem>
         <ListItem>
           <Meta>Stack</Meta>
-          <span>Python, Tensorflow, Keras, Deep Learning model with CNN</span>
+          <span>React, OpenAI, RapidAPI, Redux, Tailwind CSS</span>
         </ListItem>
   
       </List>
@@ -50,8 +51,8 @@ const Work = () => (
         <Center>Preview</Center>
       </Heading>
 
-      <WorkImage src="/images/works/fakeface1.png" alt="fakeface" />
-      <WorkImage src="/images/works/faceface2.png" alt="fakeface" />
+      <WorkImage src="/images/works/summarizer1.png" alt="Summarizer" />
+      <WorkImage src="/images/works/summarizer2.png" alt="Summarizer" />
       
     </Container>
   </Layout>
