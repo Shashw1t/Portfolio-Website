@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Vishwas Saini",
+  "author": "Shashwat Dwivedi",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.7",
@@ -25,8 +25,7 @@
     "react-pdf": "^5.7.2",
     "Shashwat-Homepage": "file:",
     "Shashwat's-Homepage": "file:",
-    "three": "^0.139.2",
-    "Vishwas's-Homepage": "file:"
+    "three": "^0.139.2"
   },
   "devDependencies": {
     "eslint": "^8.13.0",

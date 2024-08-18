@@ -35,10 +35,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/works.js"
     ],
-    "/works/COMS": [
+    "/works/Adulting101": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/works/COMS.js"
+      "static/chunks/pages/works/Adulting101.js"
     ]
   },
   "ampFirstPages": []
