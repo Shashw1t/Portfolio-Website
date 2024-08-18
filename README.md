@@ -1,5 +1,5 @@
 # TechStack
-
+```
 - React
 
 - NextJs
@@ -9,7 +9,7 @@
 - ThreeJs
 
 - Framer Motion
-
+```
 
 # Project Structure
 ```
