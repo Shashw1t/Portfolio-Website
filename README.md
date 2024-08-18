@@ -12,7 +12,7 @@
 
 
 # Project Structure
-
+```
 $PROJECT_ROOT
 │   # Page files
 ├── pages
@@ -22,3 +22,4 @@ $PROJECT_ROOT
 ├── lib
 │   # Static files for images and 3d model file
 └── public
+```
