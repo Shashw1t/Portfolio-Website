@@ -16,30 +16,30 @@ const Work = () => (
   <Layout title="Hand Gesture Recognition">
     <Container>
       <Title>
-      Hand Gesture Recognition <Badge>2021</Badge>
+      HyperShip <Badge>2023</Badge>
       </Title>
       <P>
-      Created a system to identify the hand gestures of the user at a restaurant and automated the food Ordering process.
+      Created an Innovative platform empowering private supply & transport agencies to provide real-time and verifiable shipment location data through integrated smart contracts on ethereum.
       </P>
       <br></br>
       <P>
-      Lead a team of four members,we created our own dataset and achieved an accuracy of 99% for recognition in real-time.
+      Lead a team of three members, to tackle inefficiencies and vulnerabilities in traditional logistics systems while enhancing accountability and security throughout the supply chain.
       </P>
 
       <List ml={4} my={4}>
       <ListItem>
           <Meta>Github</Meta>
-          <Link href="https://github.com/Vishwas-10/Hand-Gesture-Recognition">
-          Hand-Gesture-Recognition<ExternalLinkIcon mx="2px" />
+          <Link href="https://github.com/Shashw1t/HyperShip-2.0">
+          HyperShip<ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
           <Meta>Platform</Meta>
-          <span>Windows,MacOS,Linux,Raspberry pi</span>
+          <span>Windows,MacOS,Linux</span>
         </ListItem>
         <ListItem>
           <Meta>Stack</Meta>
-          <span>Python, Keras, OpenCV, ML model using CNN and Raspberry pi for Automation</span>
+          <span>Ethereum, Solidity, React, Node.js, MongoDB, AWS, Jest, Docker</span>
         </ListItem>
         
       </List>
@@ -48,9 +48,9 @@ const Work = () => (
         <Center>Preview</Center>
       </Heading>
 
-      <WorkImage src="/images/works/handgesture1.png" alt="handgesture" />
+      {/* <WorkImage src="/images/works/handgesture1.png" alt="handgesture" />
       <WorkImage src="/images/works/handgesture0.jpeg" alt="handgesture" />
-      <WorkImage src="/images/works/handgesture2.jpeg" alt="handgesture" />
+      <WorkImage src="/images/works/handgesture2.jpeg" alt="handgesture" /> */}
     </Container>
   </Layout>
 )

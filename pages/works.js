@@ -6,7 +6,7 @@ import { WorkGridItem } from '../components/grid-item'
 import sentinel from '../public/images/works/coms-home.png'
 import voicecommits from '../public/images/works/voicecommits.png'
 import summarizer from '../public/images/works/summarizer.png'
-import thumbHandGesture from '../public/images/works/handgesture-home.png'
+import thumbHandGesture from '../public/images/works/Hypership-home.png'
 
 const Works = () => (
   <Layout title="Works">
@@ -36,7 +36,7 @@ const Works = () => (
         </Section>
         <Section delay={0.1}>
           <WorkGridItem id="handgesture" thumbnail={thumbHandGesture} title="HyperShip">
-          A machine learning Model that will Recognize Hand Gestures in real time using CNN and automated using Raspberry pi.
+          An Innovative platform that provides real-time and verifiable shipment location data outperforming traditional supply chain systems.
           </WorkGridItem>
         </Section>
       </SimpleGrid>

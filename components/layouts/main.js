@@ -15,12 +15,12 @@ const Main = ({ children, router }) => {
     <Box as="main" pb={8}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Vishwas Saini's homepage" />
-        <meta name="author" content="Vishwas Saini" />
-        <meta name="author" content="Vishwas Saini" />
+        <meta name="description" content="Shashwat Dwivedi's homepage" />
+        <meta name="author" content="Shashwat Dwivedi" />
+        <meta name="author" content="Shashwat Dwivedi" />
         <link rel="apple-touch-icon" href="apple-touch-icon.png" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-        <title>Vishwas Saini - Homepage</title>
+        <title>Shashwat Dwivedi - Homepage</title>
       </Head>
 
       <NavBar path={router.asPath} />

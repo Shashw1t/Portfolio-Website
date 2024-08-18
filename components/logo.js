@@ -24,7 +24,7 @@ const Logo = () => {
             fontWeight="bold"
             ml={3}
           >
-            Vishwas Saini
+            Shashwat Dwivedi
           </Text>
         </LogoBox>
       </a>

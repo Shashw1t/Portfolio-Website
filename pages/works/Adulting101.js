@@ -36,10 +36,12 @@ const Work = () => (
           <Link href="https://github.com/Shashw1t/Voice-Commits">
           Voice Commits <ExternalLinkIcon mx="2px" />
           </Link>
-        </ListItem>
+        </ListItem>  
         <ListItem>
-          <Meta>Platform</Meta>
-          <span>Windows/macOS/Linux</span>
+          <Meta>Visual Studio Marketplace</Meta>
+          <Link href="https://marketplace.visualstudio.com/items?itemName=night-owl-labs.bee-heard">
+          Visual Studio <ExternalLinkIcon mx="2px" />
+          </Link>
         </ListItem>
         <ListItem>
           <Meta>Stack</Meta>
@@ -51,8 +53,8 @@ const Work = () => (
         <Center>Preview</Center>
       </Heading>
 
-      {/* <WorkImage src="/images/works/adulting101-home.png" alt="adulting101" />
-      <WorkImage src="/images/works/adulting1.png" alt="adulting101" /> */}
+      <WorkImage src="/images/works/beeheard.png" alt="voice commits" />
+      <WorkImage src="/images/works/voicecommit-preview.png" alt="voice commits" />
     </Container>
   </Layout>
 )
