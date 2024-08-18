@@ -26,7 +26,7 @@ const Work = () => (
       <br></br>
       <P>
       Created a Redux store to manage and enhance all the complex state management techniques
-      ensuring seamless feature addition and enhancements
+      ensuring seamless feature addition and enhancement
       </P>
       <List ml={4} my={4}>
       <ListItem>
