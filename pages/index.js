@@ -97,7 +97,7 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>2024</BioYear>
-          Software Engineer, Intern | NHDC Limited
+          Software Development Engineer, Intern | NHDC Limited
         </BioSection>
         <BioSection>
           <BioYear>2023</BioYear>
