@@ -7,6 +7,7 @@ import sentinel from '../public/images/works/coms-home.png'
 import voicecommits from '../public/images/works/voicecommits.png'
 import summarizer from '../public/images/works/summarizer.png'
 import hypership from '../public/images/works/Hypership-home.png'
+import captcha from '../public/images/works/captcha.png'
 
 const Works = () => (
   <Layout title="Works">
@@ -23,10 +24,18 @@ const Works = () => (
         </Section>
         <Section>
           <WorkGridItem
+            id="recaptcha" title="Re-captcha" thumbnail={captcha}>
+            A passive, CAPTCHA-free bot detection system.
+          </WorkGridItem>
+        </Section>
+
+        <Section>
+          <WorkGridItem
             id="Adulting101" title="Voice Commits" thumbnail={voicecommits}>
             A VS Code extension enabling users to record and manage voice memos.
           </WorkGridItem>
         </Section>
+
 
         <Section delay={0.1}>
           <WorkGridItem

@@ -16,7 +16,7 @@ const Projects = () => (
   <Layout title="Crypto Sentinels">
     <Container>
       <Title>
-      Crypto Sentinels <Badge>2023-</Badge>
+      Crypto Sentinels <Badge>2023</Badge>
       </Title>
       <P>
       Crypto Sentinels is a toolkit for government agencies to help them monitor and deanonymize cryptocurrency wallets related to illegal activities on the dark web. Based on problem statement SIH1445, 2023: De-anonymisation for monitoring & tracking of illegal activities performed using cryptocurrency transaction technology

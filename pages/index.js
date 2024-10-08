@@ -163,9 +163,9 @@ const Home = () => (
         </List>
 
         <Box align="center" my={4}>
-          <NextLink href="https://drive.google.com/file/d/1qR6wfZYLxlU959gx5-rrjSINdtdMNyS3/view?usp=drive_link" passHref scroll={false}>
+          <NextLink href="https://drive.google.com/file/d/1cNBTmIF4B7WretEXRGKPktoelU7_YUmL/view?usp=drive_link" passHref scroll={false}>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-            <a href="https://drive.google.com/file/d/1qR6wfZYLxlU959gx5-rrjSINdtdMNyS3/view?usp=drive_link">Download Resume</a> 
+            <a href="https://drive.google.com/file/d/1cNBTmIF4B7WretEXRGKPktoelU7_YUmL/view?usp=drive_link">Download Resume</a> 
             </Button>
           </NextLink>
         </Box>
